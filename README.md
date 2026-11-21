@@ -1,4 +1,4 @@
-# Práctica de Computación — CUC
+# POR LA FACULTAD DE INGENIERÍA, UNIVERSIDAD DE SINALOA PARA LA UNIVERSIDAD DE LA COSTA — CUC
 
 Este repositorio documenta una práctica presencial realizada por el Dr. Jose Alfonso Aguilar Calderón de la Unversidad Autónoma de Sinaloa (UAS) desde el **23 al 30 de noviembre de 2026** en **Mazatlán, Sinaloa, México**.
 
