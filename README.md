@@ -1,8 +1,8 @@
-# POR LA FACULTAD DE INGENIERÍA, UNIVERSIDAD DE SINALOA PARA LA UNIVERSIDAD DE LA COSTA — CUC
+# POR LA FACULTAD DE INGENIERÍA, UNIVERSIDAD DE SINALOA, MAZATLÁN, MÉXICO.
 
-Este repositorio documenta una práctica presencial realizada por el Dr. Jose Alfonso Aguilar Calderón de la Unversidad Autónoma de Sinaloa (UAS) desde el **23 al 30 de noviembre de 2026** en **Mazatlán, Sinaloa, México**.
+Este repositorio documenta una práctica presencial del diplomado realizada por el Dr. Jose Alfonso Aguilar Calderón [(LinkedIn)](https://www.linkedin.com/in/ja-aguilar/) de la Unversidad Autónoma de Sinaloa (UAS) desde el **23 al 30 de noviembre de 2026** en **Mazatlán, Sinaloa, México**.
 
-Durante la práctica se preparó el entorno de desarrollo, se creó una primera página con PHP y XAMPP, y se construyó una API REST para consultar productos almacenados en una base de datos MySQL. Las herramientas que se utilizaron fueron Postman, XAMPP, Apache, PHP, MySQL y Git.
+Durante la práctica se preparó el entorno de desarrollo con PHP y XAMPP, y se construyó una API REST para consultar productos almacenados en una base de datos MySQL. Las herramientas que se utilizaron fueron VScode, Postman, XAMPP, Apache, PHP, MySQL y Git/GitHub..-.-
 
 ## Objetivos de aprendizaje
 Al finalizar esta práctica, el estudiante podrá:
