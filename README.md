@@ -328,4 +328,4 @@ Antes de entregar, confirma que el proyecto contenga estos puntos:
 
 ## Créditos
 
-Práctica académica realizada presencialmente por estudiantes de la CUC durante la semana del **15 al 29 de noviembre de 2026**, en Mazatlán, Sinaloa, México.
+Práctica académica realizada presencialmente por la UAS en en Mazatlán, Sinaloa, México.
