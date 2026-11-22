@@ -1,4 +1,4 @@
-# POR LA FACULTAD DE INGENIERÍA, UNIVERSIDAD DE SINALOA, MAZATLÁN, MÉXICO.
+# FACULTAD DE INGENIERÍA, UNIVERSIDAD DE SINALOA, MAZATLÁN, MÉXICO.
 
 Este repositorio documenta una práctica presencial del diplomado en Desarrollo y Administración de Tecnologías Libres Unificadas - 10ma Edición realizada por el **Dr. Jose Alfonso Aguilar Calderón** [(LinkedIn)](https://www.linkedin.com/in/ja-aguilar/) de la Unversidad Autónoma de Sinaloa (UAS) desde el **23 al 30 de noviembre de 2026** en **Mazatlán, Sinaloa, México**.
 
